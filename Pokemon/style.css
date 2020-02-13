@@ -1,0 +1,13 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: gray;
+}
+
+img {
+	border: 2px solid red;
+	border-radius: 10px;
+}
