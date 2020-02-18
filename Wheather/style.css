@@ -1,0 +1,33 @@
+h1 {
+	font-size: 24px;
+	color: white;
+}
+
+.header{
+	background-color: #37741a;
+}
+
+#info {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#tiempo{
+	display: inline-block;
+	margin-left: 10%;
+}
+
+#info p{
+	font-size: 24px;
+}
+
+#tiempo img{
+	width: 90px;
+	display: inline-block;
+}
+
+#tiempo p{
+	font-size: 24px;
+	display: inline-block;
+	margin-left: 20px;
+}
