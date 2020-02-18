@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+.coatofarms {
+	width: 200px;
+}
+
+#info {
+	display:inline-block;
+}
+
+#image {
+	display:inline-block;
+	margin-left: 30%;
+}
